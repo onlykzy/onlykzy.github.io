@@ -10,4 +10,4 @@ tags:
 
 update git
 
-[git]: https://git-scm.com/download/win
+[git](https://git-scm.com/download/win)
