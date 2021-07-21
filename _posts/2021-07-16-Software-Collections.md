@@ -11,6 +11,8 @@ tags:
   - yum
   - cmake
   - vscode
+  - c++
+  - cpp
 ---
 
 install
