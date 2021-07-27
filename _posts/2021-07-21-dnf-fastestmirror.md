@@ -1,6 +1,6 @@
 ---
-title: "Use the higher version of GCC through SCL"
-date: 2021-07-21 10:00:00
+title: "dnf fastest mirror"
+date: 2021-07-27 14:30:00
 categories:
   - blog
 tags:
