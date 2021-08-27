@@ -1,6 +1,6 @@
 ---
 title: "Use the higher version of GCC through SCL"
-date: 2021-07-16 17:00:00
+date: 2021-08-27 16:00
 categories:
   - blog
 tags:
@@ -31,6 +31,15 @@ scl enable devtoolset-9 zsh
 cmake
 
 ```bash
+export CC=`which gcc`
+export CXX=`which g++`
+```
+
+default
+
+```bash
+# /etc/profile
+source /opt/rh/devtoolset-9/enable
 export CC=`which gcc`
 export CXX=`which g++`
 ```
