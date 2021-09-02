@@ -10,3 +10,5 @@ tags:
 [WebGL Fluid Simulation](/collections/WebGL-Fluid-Simulation/index.html)
 
 [The Useless Web](https://theuselessweb.com/)
+
+[jsencrypt-demo](/collections/jsencrypt-demo/index.html)
