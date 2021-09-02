@@ -1,6 +1,6 @@
 ---
 title: "collections"
-date: 2021-08-11 18:00:00
+date: 2021-09-02 08:00:00
 categories:
   - collection
 tags:
@@ -8,3 +8,5 @@ tags:
 ---
 
 [WebGL Fluid Simulation](/collections/WebGL-Fluid-Simulation/index.html)
+
+[The Useless Web](https://theuselessweb.com/)
